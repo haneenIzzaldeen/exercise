@@ -78,4 +78,47 @@
 # end
 # hello "haneen" , "haneen1"
 
-puts "hello world"
+# puts "hello world"
+
+# begin 
+# num = 10 / 0
+
+# rescue 
+
+# puts "division by zero will throw an error"
+
+# end
+
+# i = 5
+# for a in 1..5
+# puts ("hello " + i.to_s)
+# end 
+
+# a = 10
+# while a == 10
+# puts "hi"
+# a += 1
+# end
+
+
+#  a=10
+
+#  if a % 2 == 0
+#     puts "even numbers"
+
+# else 
+#     puts "odd numbers"
+
+# end 
+
+for a in 1..5
+    for a1 in 1..5
+        puts a*a1 
+    end 
+    puts
+end
+
+
+
+
+
