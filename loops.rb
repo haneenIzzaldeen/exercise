@@ -30,7 +30,6 @@
 
 #   elsif (guess < number )
 #        puts "too low"
-
 #  end
 # end
 
@@ -42,7 +41,6 @@
 # guess = gets.to_i 
 # end
 # puts "you guessed the number"
-
 
 
 
